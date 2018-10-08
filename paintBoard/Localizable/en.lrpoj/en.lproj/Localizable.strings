@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  paintBoard
+
+  Created by apple on 10/2/18.
+  Copyright © 2018 apple. All rights reserved.
+*/
+
+
+"Clear" = "Clear";
+"Black" = "Black";
+"Red" = "Red";
+"Green" = "Green";
+"Blue" = "Blue";
